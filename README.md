@@ -17,4 +17,21 @@ Here are some ideas to get you started:
 
 
 - 🔭 This past summer, I interned at quadric.io, working on various projects in both HW and SW. I am engaged in various research projects at Northwestern University.
-- 🌱 I’m an incoming first-year at Harvard University, studying computer science and electrical engineering.
+- 🌱 I’m an incoming first-year at Harvard University, studying computer science and electrical engineering. I intend on pursuing a PhD.
+
+
+
+## Languages and Tools:
+
+#### Programming Languages
+
+<div>
+  <img alt="Python" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img alt="C++" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+  <img alt="C" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+  <img alt="JavaScript" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="Java" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+  <img alt="HTML5" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img alt="CSS3" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img alt="LaTeX" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
+</div>
