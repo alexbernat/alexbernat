@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 This past summer, I interned at quadric.io, working on various projects in both HW and SW. I am engaged in various research projects at Northwestern University.
-- 🌱 I’m an incoming first-year at Harvard University (College Class of '25, Go Crimson!), studying computer science and electrical engineering. I intend on pursuing a PhD.
+- 🔭 This past summer, I interned at quadric.io, working on various projects in both HW and SW. I am engaged in various systems research projects at Northwestern University.
+- 🌱 I’m an incoming first-year at Harvard University (College Class of '25, Go Crimson!), studying computer science and electrical engineering. I intend on pursuing a PhD in something related to parallelism, computer systems, security, and HW.
 
 
 
