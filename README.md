@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 This past summer, I interned at quadric.io, working on various projects in both HW and SW. I am further engaged in various systems research projects at Northwestern University.
+- 🔭 This past summer, I interned at quadric.io, working on various projects in both HW and SW. I was engaged in various systems research projects at Northwestern University in the [Prescience Lab](http://presciencelab.org/).
 - 🌱 I’m a first-year at Harvard University (College Class of '25, Go Crimson!), studying computer science and electrical engineering. After my undergrad, I intend on pursuing a PhD in something related to parallelism, computer systems, security, and HW.
 
 
